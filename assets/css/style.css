@@ -4,3 +4,27 @@
     width:50%;
     margin:auto;
 }
+
+#olhaso {
+    width:10%;
+    margin:auto;
+    background-color: black;
+    color:white;
+    border-radius:10px;
+}
+
+#olhaso:hover#olhaso {
+    width:10%;
+    margin:auto;
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+}
+
+#olhaso:active {
+    width:10%;
+    margin:auto;
+    background-color:red;
+    color:white;
+    border-radius:10px;
+}
