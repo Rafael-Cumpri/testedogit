@@ -21,10 +21,6 @@
     border-radius:10px;
 }
 
-#olhaso:active {
-    width:10%;
-    margin:auto;
-    background-color:red;
-    color:white;
-    border-radius:10px;
+.olhas2  {
+    border:5px green double;
 }
