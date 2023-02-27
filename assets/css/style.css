@@ -22,5 +22,10 @@
 }
 
 .olhas2  {
-    border:5px green double;
+    border:5px green dashed;
+}
+
+.olhas2:focus {
+    border:10px pink double;
+    outline:0;
 }
