@@ -29,3 +29,7 @@
     border:10px pink double;
     outline:0;
 }
+
+input {
+    margin:1%;
+}
